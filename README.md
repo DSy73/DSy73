@@ -1,6 +1,6 @@
 ## About
 
-I am a technology leader with over 23 years of experience in banking and information technologies, focusing on the design and delivery of mission-critical systems in highly regulated environments.
+Founder with over 26 years of professional experience in banking and information technologies, including 23 years within Türkiye İş Bankası, spanning mission-critical systems, legacy platforms, and enterprise-scale transformation initiatives.
 
 I am the Founder and Lead Architect of **Mentrova**, an AI-driven platform addressing knowledge continuity and talent allocation challenges in legacy-system-dependent industries, particularly finance. Mentrova applies predictive insight models and AI-supported matching to transform scarce human expertise into actionable institutional intelligence.
 
